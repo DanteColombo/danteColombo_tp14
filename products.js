@@ -15,9 +15,3 @@ let electrodomésticos= ["televisor","heladera","microondas","pavaElectrica","ho
 // //console.log(cadenaTextoArray.replace("televisor","playstation"));
 // //let nuevoArray = cadenaTextoArray.split(" ");
 // //console.log(nuevoArray);
-
-
-
-
-
-
